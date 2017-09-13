@@ -1,0 +1,32 @@
+表名 报废表 表：EC_MeasuringScrap
+ApplicationNo
+SerialNumber
+id
+计量器具名称：MeasuringDeviceName
+计量器具编号： MeasuringDeviceNumber
+申请部门：ApplicationDepartment
+申请书编号：ApplicationNumber
+型号：Model
+规格：Specification
+制造厂： Manufacturers
+出厂日期： DateOfManufacture
+投用日期： DateOfUse
+规定使用年限：PrescribedLife
+使用部门：UseDepartment
+原价：OriginalPrice
+已提折旧:Depreciation
+帐面余额(元):BookBalance 
+估计残值:EstimatedSalvageValue
+报废理由：ScrapReason
+计量管理部门意见：OpinionsOfManagement
+使用部门意见：OpinionsOfUser
+领导批示：OpinionsOfHead
+报废申请人：ScrapPeople
+报废日期：ScrapDate
+管理部门人：ManagementPeople
+管理部门日期：ManagementDate
+使用部门人：UserPeople
+使用部门日期：UserDate
+总经理：Leader
+日期：LeaderDate
+报废结果：ScrapState
